@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I'm Joy 👋</h1>
-<h3 align="center">Android & Backend Developer | Kotlin · Python · FastAPI</h3>
+<h3 align="center">Full-Stack Developer | Mobile · Backend · Web</h3>
 
 <p align="center">
-  Building production apps and trading/automation systems from Bogura, Bangladesh 🇧🇩
+  Building production apps across Android, backend & web from Bangladesh 🇧🇩
 </p>
 
 ---
 
 ### 🚀 About Me
 
+- 💻 Working across the full stack — **Android (Kotlin/Compose)**, **backend (Python/FastAPI)**, and **web/desktop (React/Electron)**
 - 🔭 Currently building **DCode** — an Electron + React + TypeScript agentic IDE
 - 📱 Shipped **Bakir Hisab** — an Android business ledger app with Google Drive backup, biometric lock & SMS reminders
 - ⚡ Built **AlgoX Pro** — a real-time trading signal platform using FastAPI, Redis & WebSockets
