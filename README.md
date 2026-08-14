@@ -50,5 +50,10 @@
 ### 📫 Reach Me
 
 <p align="left">
-  <!-- Add your links: LinkedIn, email, portfolio, etc. -->
+  <a href="https://www.facebook.com/mdsagorpk.420/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://t.me/sagort3k" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </p>
