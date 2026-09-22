@@ -15,6 +15,7 @@
 - ⚡ Built **AlgoX Pro** — a real-time trading signal platform using FastAPI, Redis & WebSockets
 - 🎓 Bangla Honours graduate | Former ICT Manager
 - 🌱 Currently exploring agentic coding tools & LLM-powered dev workflows
+- 📦 Shipping and maintaining public projects — full list below
 
 ---
 
@@ -39,11 +40,22 @@
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🗂️ **[Bakir Hisab](#)** | Android business ledger app — Google Drive backup, Firebase kill switch, biometric lock, SMS reminders |
-| 📈 **[AlgoX Pro v2.0](#)** | Quotex binary trading signal platform — FastAPI, Redis, WebSocket, real-time signal caching |
-| 💻 **[DCode](#)** | Electron + React + TypeScript agentic IDE with integrated AI coding agent |
+| Project | Description | Stack |
+|---|---|---|
+| 💰 **[SkySurvey](https://github.com/SagorT3K/skysurvey)** · [live](https://skysurvey.vercel.app) | Get-paid-to survey platform — router postbacks with signature checks, coin ledger, rewards, admin panel | Next.js 16, Prisma, Tailwind |
+| 🎬 **[MovieBox](https://github.com/SagorT3K/moviebox)** · [live](https://hdmoviebox.fly.dev) | Streaming front end that proxies the catalog and transcodes playback with ffmpeg | Node.js, Express, Docker, Fly.io |
+| 🔌 **[MovieBox API](https://github.com/SagorT3K/moviebox-api)** · [live](https://moviebox-api-steel.vercel.app) | JSON REST API for the catalog — search, detail trees, stream + subtitle resolution | Python, FastAPI, Vercel |
+| 🧾 **[Bikroy Hisab (Web)](https://github.com/SagorT3K/shop-manager)** | Shop ledger — customers, dues (বাকি), payments, WhatsApp/Gmail reminders, EN+BN UI | Node 22, Express, node:sqlite |
+| 📈 **[AlgoX Pro v2.0](https://github.com/SagorT3K/AlgoXpro_version2.0)** · [live](https://sagort3k.github.io/AlgoXpro_version2.0/) | Quotex signal dashboard: local FastAPI engine, static front end as the UI | FastAPI, WebSocket, vanilla JS |
+| 🌐 **[Web Translator](https://github.com/SagorT3K/web-translator)** | 109-language translator that is one HTML file — no server, no key, no build | HTML, vanilla JS |
+| 🤖 **[ZeroCode](https://github.com/SagorT3K/ZeroCode)** | Fork of OpenClaw Zero Token — drive official web UIs instead of paid API keys | TypeScript, pnpm |
+| 🗂️ **Bakir Hisab (Android)** | Business ledger app — Google Drive backup, biometric lock, SMS reminders *(not public)* | Kotlin, Jetpack Compose |
+| 💻 **DCode** | Agentic IDE with an integrated AI coding agent *(not public)* | Electron, React, TypeScript |
+
+### 📦 More repositories
+
+- **[test01](https://github.com/SagorT3K/test01)** — single-file static landing page template (no JS, no build)
+- **[SagorT3K](https://github.com/SagorT3K/SagorT3K)** — this profile README
 
 ---
 
